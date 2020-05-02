@@ -1,0 +1,1 @@
+paste ../12_split/col1.txt ../12_split/col2.txt > check_merge.txt
